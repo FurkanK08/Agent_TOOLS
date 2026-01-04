@@ -1,7 +1,7 @@
 # Agent_TOOLS
 Bu depo, LangChain tabanlı AI ajanlarının yeteneklerini artırmak için geliştirilmiş özel araçlar (custom tools) koleksiyonudur. Ajanların dış dünya ile etkileşime girmesini, karmaşık veri işlemlerini yapmasını ve API entegrasyonlarını kolaylaştırmayı amaçlar.
 
-🚀 LangChain Persistent Agent Tools
+# 🚀 LangChain Persistent Agent Tools
 Bu depo, LangChain tabanlı yapay zeka ajanlarının işletim sistemiyle durumsal (stateful) etkileşim kurmasını sağlayan gelişmiş bir araç setidir. Standart shell araçlarının aksine, bu implementasyon terminal oturumunu arka planda canlı tutarak ajanların karmaşık ve çok adımlı görevleri (dizin değiştirme, ortam değişkeni atama, uzun süreli süreç yönetimi) sanki bir insan geliştiriciymiş gibi yapmasına olanak tanır.
 
 🔥 Neden Bu Araca İhtiyacınız Var?
